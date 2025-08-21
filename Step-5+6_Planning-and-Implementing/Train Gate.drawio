@@ -1,0 +1,254 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="26.2.15">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1351" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="DgsRLEk-HINbIGMA6B33-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-0" target="DgsRLEk-HINbIGMA6B33-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-0" value="Startup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="195" as="targetPoint" />
+            <mxPoint x="430" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="230" />
+              <mxPoint x="350" y="230" />
+              <mxPoint x="350" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-4" value="SystemHealthy 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="88" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SystemHealthy 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="210" as="sourcePoint" />
+            <mxPoint x="230" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DgsRLEk-HINbIGMA6B33-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.9999999999999" y="261" as="targetPoint" />
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="230" y="310" />
+              <mxPoint x="150" y="310" />
+              <mxPoint x="150" y="261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-12" value="GateDownLimit 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-15" value="TrainIncoming 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TrainIncoming 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DgsRLEk-HINbIGMA6B33-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="402" as="targetPoint" />
+            <mxPoint x="320" y="342" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="372" />
+              <mxPoint x="206" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DgsRLEk-HINbIGMA6B33-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="402" as="targetPoint" />
+            <mxPoint x="320" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="372" />
+              <mxPoint x="436" y="372" />
+              <mxPoint x="436" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-22" value="TrainApproachLeft 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="342" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-23" target="DgsRLEk-HINbIGMA6B33-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283.33333333333326" y="166.66666666666663" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-23" value="Detect for train" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-24" value="TrainApproachRight 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="342" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-26" target="DgsRLEk-HINbIGMA6B33-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="462" />
+              <mxPoint x="120" y="462" />
+              <mxPoint x="120" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-26" target="DgsRLEk-HINbIGMA6B33-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-26" target="DgsRLEk-HINbIGMA6B33-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-26" value="CmdGateDown 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="402" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-27" value="GateDownLimit 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-29" target="DgsRLEk-HINbIGMA6B33-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="462" />
+              <mxPoint x="535" y="462" />
+              <mxPoint x="535" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-29" target="DgsRLEk-HINbIGMA6B33-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-29" value="CmdGateDown 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="402" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-30" value="GateDownLimit 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="467" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-33" value="TrainEgressRight 1&lt;div&gt;TrainAtCrossing 0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-34" value="TrainEgressLeft&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;div&gt;&lt;div&gt;TrainAtCrossing 0&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-35" target="DgsRLEk-HINbIGMA6B33-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="770" />
+              <mxPoint x="230" y="770" />
+              <mxPoint x="230" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-35" target="DgsRLEk-HINbIGMA6B33-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="186.36363636363626" y="169.09090909090912" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="705" />
+              <mxPoint x="90" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-35" target="DgsRLEk-HINbIGMA6B33-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="460.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="720" />
+              <mxPoint x="650" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-35" value="CmdGateUp 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-37" value="GateUpLimit 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.535;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="439.1999999999998" y="318.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-42" target="DgsRLEk-HINbIGMA6B33-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-42" target="DgsRLEk-HINbIGMA6B33-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-42" value="CmdGateUp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="457" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-45" value="TrackObstacle 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-48" value="TrackObstacle 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-51" value="EStop 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-54" value="EStop 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-57" value="CmdGateDown" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-58" value="WarnLights 1&lt;div&gt;WarnBuzzer 1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-60" value="GateUpLimit 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-61" value="WarnLights 1&lt;div&gt;WarnBuzzer 1&lt;/div&gt;&lt;div&gt;FaultIndicator 1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-63" target="DgsRLEk-HINbIGMA6B33-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-63" value="Wait" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="567" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DgsRLEk-HINbIGMA6B33-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="442" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DgsRLEk-HINbIGMA6B33-68" target="DgsRLEk-HINbIGMA6B33-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgsRLEk-HINbIGMA6B33-68" value="Wait" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="567" width="60" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
